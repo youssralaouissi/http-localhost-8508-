@@ -1,0 +1,16 @@
+﻿Date;Ordre_Fabrication;Produit;Machine;Ligne;Operateur;Equipe;Quantite_Prevue;Quantite_Produite;Quantite_Defectueuse;Taux_Defaut_%;Statut
+2026-09-01;OF001;Produit A;Machine CNC;Ligne A;Karim;Équipe matin;500;480;20;4.17;Terminé
+2026-09-01;OF002;Produit B;Tour industriel;Ligne B;Youssef;Équipe matin;400;390;10;2.56;Terminé
+2026-09-02;OF003;Produit C;Fraiseuse industrielle;Ligne A;Sara;Équipe après-midi;600;570;30;5.26;Terminé
+2026-09-02;OF004;Produit A;Presse hydraulique;Ligne C;Omar;Équipe nuit;700;685;15;2.19;Terminé
+2026-09-03;OF005;Produit B;Machine CNC;Ligne A;Hiba;Équipe matin;550;540;10;1.85;Terminé
+2026-09-03;OF006;Produit C;Machine de découpe laser;Ligne B;Karim;Équipe après-midi;450;425;25;5.88;Terminé
+2026-09-04;OF007;Produit A;Tour industriel;Ligne B;Youssef;Équipe matin;800;770;30;3.9;Terminé
+2026-09-04;OF008;Produit B;Machine de soudage robotisée;Ligne C;Sara;Équipe nuit;650;630;20;3.17;Terminé
+2026-09-05;OF009;Produit C;Fraiseuse industrielle;Ligne A;Omar;Équipe matin;500;485;15;3.09;Terminé
+2026-09-05;OF010;Produit A;Machine d'emballage;Ligne C;Hiba;Équipe après-midi;900;875;25;2.86;Terminé
+2026-09-06;OF011;Produit B;Machine CNC;Ligne A;Karim;Équipe matin;750;735;15;2.04;Terminé
+2026-09-06;OF012;Produit C;Presse mécanique;Ligne B;Youssef;Équipe nuit;620;600;20;3.33;En cours
+2026-09-07;OF013;Produit A;Perceuse à colonne;Ligne C;Sara;Équipe matin;480;465;15;3.23;Terminé
+2026-09-07;OF014;Produit B;Machine de polissage;Ligne A;Omar;Équipe après-midi;700;680;20;2.94;En cours
+2026-09-08;OF015;Produit C;Robot d'assemblage;Ligne B;Hiba;Équipe matin;850;830;20;2.41;Terminé
